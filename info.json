@@ -1,1 +1,21 @@
-
+{"name":"NobleBlocks",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"NobleBlocks is crafting a decentralized social platform for academic publishing on the blockchain. While still in development, it aims to reward authors, reviewers, and editors fairly, and to cultivate community ties among scientists, students, and the curious public.",
+"whitePaperLink":"https://nobleblocks.gitbook.io/nobleblocks-whitepaper/",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"D900E2",
+"twitterHandle":"nobleblocks",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://nobleblocks.com/assets/media/favicon.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.nobleblocks.com/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Publishing", "Ecosystems"]
+  
+}
